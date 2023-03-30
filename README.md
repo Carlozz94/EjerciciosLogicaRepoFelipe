@@ -24,6 +24,6 @@
 - Optimización 
 - Cada ejercicio está revisado para poder ser resuelto en 1hr o menos.
 
-### Otras notas
+### DIAGRAMAS DE FLUJO
 
-> :)
+TODOS LOS DIAGRAMAS DE FLUJO ESTAN EN LA CARPETA DE ASSETS

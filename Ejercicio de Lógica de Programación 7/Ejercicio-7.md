@@ -23,6 +23,9 @@ lunes
 Output:
 ```Java
 "Faltan 5730 minutos para el fin de semana"
+4 dias 4290
+3 dias 2850
+2 dias 1410
 ```
 
 ## Observaciones adicionales:
